@@ -1,0 +1,8 @@
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow:
+
+Sitemap: http://site-ssccanada-live-1523224571-vytetvzxegbutqs7mm9.local/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK
